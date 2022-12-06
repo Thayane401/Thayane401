@@ -1,0 +1,3 @@
+- 👋 I'm @Thayane401 graphic designer.
+- 👀 I am interested in following in this area of ​​technology.
+- 🌱 I'm currently learning how to develop websites using html css and javascript
